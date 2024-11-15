@@ -1,0 +1,130 @@
+{
+  "styles": {
+    "thunderstorm": {
+      "Night": {
+        "gradient": "linear-gradient(to bottom, #2c3e50, #4ca1af)",
+        "textColor": "#FFFFFF"
+      },
+      "Morning": {
+        "gradient": "linear-gradient(to bottom, #6a3093, #a044ff)",
+        "textColor": "#FFFFFF"
+      },
+      "Afternoon": {
+        "gradient": "linear-gradient(to bottom, #141e30, #243b55)",
+        "textColor": "#FFFFFF"
+      },
+      "Evening": {
+        "gradient": "linear-gradient(to bottom, #283048, #859398)",
+        "textColor": "#FFFFFF"
+      }
+    },
+    "fog": {
+      "Night": {
+        "gradient": "linear-gradient(to bottom, #232526, #414345)",
+        "textColor": "#FFFFFF"
+      },
+      "Morning": {
+        "gradient": "linear-gradient(to bottom, #bdc3c7, #2c3e50)",
+        "textColor": "#000000"
+      },
+      "Afternoon": {
+        "gradient": "linear-gradient(to bottom, #2c3e50, #bdc3c7)",
+        "textColor": "#000000"
+      },
+      "Evening": {
+        "gradient": "linear-gradient(to bottom, #4e54c8, #8f94fb)",
+        "textColor": "#FFFFFF"
+      }
+    },
+    "rain": {
+      "Night": {
+        "gradient": "linear-gradient(to bottom, #141e30, #243b55)",
+        "textColor": "#FFFFFF"
+      },
+      "Morning": {
+        "gradient": "linear-gradient(to bottom, #2b5876, #4e4376)",
+        "textColor": "#FFFFFF"
+      },
+      "Afternoon": {
+        "gradient": "linear-gradient(to bottom, #485563, #29323c)",
+        "textColor": "#FFFFFF"
+      },
+      "Evening": {
+        "gradient": "linear-gradient(to bottom, #373b44, #4286f4)",
+        "textColor": "#FFFFFF"
+      }
+    },
+    "snow": {
+      "Night": {
+        "gradient": "linear-gradient(to bottom, #83a4d4, #b6fbff)",
+        "textColor": "#000000"
+      },
+      "Morning": {
+        "gradient": "linear-gradient(to bottom, #2bc0e4, #eaecc6)",
+        "textColor": "#000000"
+      },
+      "Afternoon": {
+        "gradient": "linear-gradient(to bottom, #d7d2cc, #304352)",
+        "textColor": "#FFFFFF"
+      },
+      "Evening": {
+        "gradient": "linear-gradient(to bottom, #1c92d2, #f2fcfe)",
+        "textColor": "#000000"
+      }
+    },
+    "atmosphere": {
+      "Night": {
+        "gradient": "linear-gradient(to bottom, #2e3d4d, #536976)",
+        "textColor": "#FFFFFF"
+      },
+      "Morning": {
+        "gradient": "linear-gradient(to bottom, #0f2027, #203a43, #2c5364)",
+        "textColor": "#FFFFFF"
+      },
+      "Afternoon": {
+        "gradient": "linear-gradient(to bottom, #56ccf2, #2f80ed)",
+        "textColor": "#000000"
+      },
+      "Evening": {
+        "gradient": "linear-gradient(to bottom, #283048, #4a569d)",
+        "textColor": "#FFFFFF"
+      }
+    },
+    "clear": {
+      "Night": {
+        "gradient": "linear-gradient(to bottom, #141e30, #243b55)",
+        "textColor": "#FFFFFF"
+      },
+      "Morning": {
+        "gradient": "linear-gradient(to bottom, #f7971e, #ffd200)",
+        "textColor": "#000000"
+      },
+      "Afternoon": {
+        "gradient": "linear-gradient(to bottom, #f2994a, #f2c94c)",
+        "textColor": "#000000"
+      },
+      "Evening": {
+        "gradient": "linear-gradient(to bottom, #f77062, #fe5196)",
+        "textColor": "#FFFFFF"
+      }
+    },
+    "clouds": {
+      "Night": {
+        "gradient": "linear-gradient(to bottom, #434343, #000000)",
+        "textColor": "#FFFFFF"
+      },
+      "Morning": {
+        "gradient": "linear-gradient(to bottom, #3a6073, #16222a)",
+        "textColor": "#FFFFFF"
+      },
+      "Afternoon": {
+        "gradient": "linear-gradient(to bottom, #3a7bd5, #3a6073)",
+        "textColor": "#FFFFFF"
+      },
+      "Evening": {
+        "gradient": "linear-gradient(to bottom, #232526, #414345)",
+        "textColor": "#FFFFFF"
+      }
+    }
+  }
+}
